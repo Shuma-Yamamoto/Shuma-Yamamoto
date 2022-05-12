@@ -1,4 +1,23 @@
-### Hi there 👋
+# Profile
+
+## Skils
+
+### Langage
+Python
+HTML&CSS
+JavaScript
+PostgreSQL
+
+### Framework
+Django
+Flask
+
+### Middleware
+PostgreSQL
+
+### Cloud
+Heroku
+AWS
 
 <!--
 **Shuma-Yamamoto/Shuma-Yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
