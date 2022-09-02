@@ -5,6 +5,8 @@
 ### ◎Langage
 ・Python
 <br>
+・Ruby
+<br>
 ・HTML&CSS
 <br>
 ・JavaScript
@@ -13,9 +15,13 @@
 ・Django
 <br>
 ・Flask
+<br>
+・Ruby on Rails
 
 ### ◎Middleware
 ・PostgreSQL
+<br>
+・MySQL
 
 ### ◎Infra
 ・Heroku
