@@ -2,26 +2,15 @@
 
 ## Skils
 
-### ◎Langage
+### ◎Language
 ・Python
 <br>
+・HTML&CSS/JavaScript
+<br>
 ・Ruby
-<br>
-・HTML&CSS
-<br>
-・JavaScript
 
 ### ◎Framework
-・Django
-<br>
-・Flask
-<br>
 ・Ruby on Rails
-
-### ◎Middleware
-・PostgreSQL
-<br>
-・MySQL
 
 ### ◎Infra
 ・Heroku
