@@ -1,33 +1,31 @@
-# Profile
+# About me
+Im a student at Sophia University.
+<br>
+In Japan.
 
-## Skils
+# Activity
+
+<div>
+  <img align="left" style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuma-Yamamoto&layout=compact&theme=onedark" />
+  <img align="left" style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Shuma-Yamamoto&layout=compact&theme=onedark" />
+</div>
+
+<br><br><br><br><br><br><br><br>
+
+# Skils
 
 ### ◎Language
-・Python
-<br>
-・HTML&CSS/JavaScript
-<br>
-・Ruby
+<img align="left" style="height: 45px;" src="https://user-images.githubusercontent.com/70557787/192207301-0488b458-a0ba-494b-a876-64d0fd138a61.png" />
+<img align="left" style="height: 45px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" style="height: 45px;" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<br><br>
 
 ### ◎Framework
 ・Ruby on Rails
 
 ### ◎Infra
-・Heroku
-<br>
-・AWS
+<img align="left" style="height: 45px;" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" style="height: 45px; background-color: white;" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<br><br>
 
-<!--
-**Shuma-Yamamoto/Shuma-Yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Portfolio
