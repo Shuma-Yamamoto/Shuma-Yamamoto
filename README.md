@@ -21,7 +21,7 @@
 # Activity
 <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuma-Yamamoto&layout=compact&theme=onedark" />&nbsp;
 <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=Shuma-Yamamoto&layout=compact&theme=onedark" />
-<hr><br>
+<hr>
 
 # Portfolio
 - Rails' Portfolio >> [reviewsa](https://github.com/Shuma-Yamamoto/reviewsa)
