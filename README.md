@@ -5,10 +5,10 @@ In Japan.
 
 # Activity
 
-<p>
-  <img align="left" style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuma-Yamamoto&layout=compact&theme=onedark" />
-  <img align="left" style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Shuma-Yamamoto&layout=compact&theme=onedark" />
-</p>
+<div>
+  <img align="left" style="height: 180px; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuma-Yamamoto&layout=compact&theme=onedark" />
+  <img align="left" style="height: 180px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Shuma-Yamamoto&layout=compact&theme=onedark" />
+</div>
 
 <br><br><br><br><br><br><br><br>
 
