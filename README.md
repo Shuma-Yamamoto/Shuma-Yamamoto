@@ -1,6 +1,6 @@
 # About me
-- Im a student at Sophia University.
-- In Japan.
+- At Sophia University.
+- Backend, Infra
 <hr>
 
 # Skils
