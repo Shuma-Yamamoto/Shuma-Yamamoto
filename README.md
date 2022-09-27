@@ -25,4 +25,4 @@
 
 # Portfolio
 - Rails' Portfolio >> [reviewsa](https://github.com/Shuma-Yamamoto/reviewsa)
-- AWS' Portfolio >> [Portfolio-Scraping](https://github.com/Shuma-Yamamoto/Portfolio-Scraping)
+- AWS' Portfolio >> [scraping-cloud-migration](https://github.com/Shuma-Yamamoto/scraping-cloud-migration)
