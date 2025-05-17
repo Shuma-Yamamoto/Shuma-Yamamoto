@@ -1,6 +1,6 @@
 # About Me
 I'm a **DevOps Engineer** based in Japan. 🇯🇵<br>
-My professional responsibilities include **migrating systems from on-premises to public cloud** and **handling EoL issues**.<br>
+My professional responsibilities include migrating systems from on-premises to public cloud and handling EoL issues.<br>
 This GitHub account is for personal projects and OSS contributions. (Separate work account.)
 <hr>
 
